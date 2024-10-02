@@ -2,7 +2,7 @@ const AboutSection = () => {
   return (
     <section className="relative">
       <img
-        src="src/assets/Rectangle 20.svg"
+        src="/Rectangle 20.svg"
         alt="bg-image"
         className="w-full h-full object-cover"
       />
@@ -43,12 +43,12 @@ const AboutSection = () => {
           Learn More
         </button>
         <img
-          src="src/assets/Ellipse 41.svg"
+          src="/Ellipse 41.svg"
           alt="circle"
           className="absolute bottom-0 right-0"
         />
         <img
-          src="src/assets/Ellipse 40.svg"
+          src="/Ellipse 40.svg"
           alt="circle"
           className="absolute top-0 right-0"
         />

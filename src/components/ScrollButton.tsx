@@ -24,7 +24,7 @@ const ScrollButton = () => {
       <button onClick={handleScroll} className="scroll-btn mt-6 text-white">
         Scroll Down
       </button>
-      <img src="src/assets/Arrow 1.svg" alt="Scroll Down" className="mt-6" />
+      <img src="/Arrow 1.svg" alt="Scroll Down" className="mt-6" />
     </>
   );
 };

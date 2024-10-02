@@ -5,7 +5,7 @@ const Footer = () => {
         <div className="lg:col-span-2">
           <div className="flex items-center gap-[6px]">
             <img
-              src="src/assets/FooterLogo.svg"
+              src="/FooterLogo.svg"
               alt="Footer Logo"
               className="w-[57px] h-[56px]"
             />
