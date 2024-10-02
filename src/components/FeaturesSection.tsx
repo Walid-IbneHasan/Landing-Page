@@ -21,7 +21,7 @@ const featuresData = [
 
 const FeaturesSection = () => {
   return (
-    <section className=" bg-gradient-to-r from-[#44341E] via-[#0B0D1B] to-[#3C2D1C] p-4 xl:p-16 text-white">
+    <section className="features-section bg-gradient-to-r from-[#44341E] via-[#0B0D1B] to-[#3C2D1C] p-4 xl:p-16 text-white">
       <div className="flex flex-col lg:flex-row xl:justify-evenly my-[32px] lg:my-[100px]">
         <div className="lg:flex-1 ">
           <h2 className="  xl:text-[48px] lg:text-[40px] text-[30px]  text font-bold mb-8">
