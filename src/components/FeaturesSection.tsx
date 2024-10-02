@@ -3,19 +3,19 @@ const featuresData = [
     title: "Trade Finance",
     description:
       "We offer green financing to help sellers, buyers, and financial institutions facilitate trade as well as create an atmosphere for non-conventional players",
-    imageUrl: "/src/assets/chart-histogram 1.svg",
+    imageUrl: "src/assets/chart-histogram 1.svg",
   },
   {
     title: "Cross-Border Payments",
     description:
       "We make the transaction easier between the payer and payee from different countries by ensuring low cost, high speed, unlimited access and sufficient transparency.",
-    imageUrl: "/src/assets/chart-histogram 2.svg",
+    imageUrl: "src/assets/chart-histogram 2.svg",
   },
   {
     title: "Digital Identity",
     description:
       "We can help you build your online presence, and our digital infrastructure will allow financial institutions to validate identities without depending on physical documentation.",
-    imageUrl: "/src/assets/chart-histogram 3.svg",
+    imageUrl: "src/assets/chart-histogram 3.svg",
   },
 ];
 
@@ -33,12 +33,12 @@ const FeaturesSection = () => {
           </p>
           <div className="lg:flex gap-[23px] mt-[19px] hidden">
             <img
-              src="/src/assets/Arrow Left.svg"
+              src="src/assets/Arrow Left.svg"
               alt="arrow-left"
               className="bg-[#FFFFFF] bg-opacity-[35%] p-[13px] rounded-[14px] hover:bg-opacity-60 hover:cursor-pointer"
             />
             <img
-              src="/src/assets/Arrow Right.svg"
+              src="src/assets/Arrow Right.svg"
               alt="arrow-left"
               className="bg-[#FFFFFF] bg-opacity-[35%] p-[13px] rounded-[14px] hover:bg-opacity-60 hover:cursor-pointer"
             />

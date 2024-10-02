@@ -7,7 +7,7 @@ const OfferingsSection = () => {
       <div className="grid grid-cols-1 lg:grid-cols-4 gap-6 w-full container mx-auto">
         <div className="lg:col-span-2 rounded-[20px] p-8 bg-gradient-to-r from-[#433598] to-[#305A98]">
           <img
-            src="/src/assets/fund 1.svg"
+            src="src/assets/fund 1.svg"
             alt="icon"
             className="w-[47px] h-[50px] mb-[20px]"
           />
@@ -32,7 +32,7 @@ const OfferingsSection = () => {
         </div>
         <div className="px-[24px] py-[32px] relative bg-[#FFFFFF] bg-opacity-5 backdrop-blur-md rounded-[20px] shadow-lg">
           <img
-            src="/src/assets/operation 1.svg"
+            src="src/assets/operation 1.svg"
             alt="icon"
             className="w-[30px] h-[30px] lg:w-[47px] lg:h-[50px] mb-[20px]"
           />
@@ -40,7 +40,7 @@ const OfferingsSection = () => {
             Payment System
           </h3>
           <img
-            src="/src/assets/Arrow Down.svg"
+            src="src/assets/Arrow Down.svg"
             alt="Arrow Down"
             className="absolute bottom-10 right-10 bg-[rgba(200, 222, 255, 0.22)] w-[15px] h-[15px] "
           />
@@ -48,7 +48,7 @@ const OfferingsSection = () => {
 
         <div className="px-[24px] py-[32px] relative bg-[#FFFFFF] bg-opacity-5 backdrop-blur-md rounded-[20px] shadow-lg">
           <img
-            src="/src/assets/forex 1.svg"
+            src="src/assets/forex 1.svg"
             alt="icon"
             className="w-[30px] h-[30px] lg:w-[47px] lg:h-[50px] mb-[20px]"
           />
@@ -56,7 +56,7 @@ const OfferingsSection = () => {
             Currency Exchange
           </h3>
           <img
-            src="/src/assets/Arrow Down.svg"
+            src="src/assets/Arrow Down.svg"
             alt="Arrow Down"
             className="absolute bottom-10 right-10 bg-[rgba(200, 222, 255, 0.22)] w-[15px] h-[15px] "
           />

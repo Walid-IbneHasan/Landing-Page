@@ -28,47 +28,47 @@ const HeroSection = () => {
       </div>
       <div>
         <img
-          src="/src/assets/Polygon 6.svg"
+          src="src/assets/Polygon 6.svg"
           alt="Hero Section"
           className="absolute top-2 left-4 lg:top-[273px] lg:left-[143px]"
         />
         <img
-          src="/src/assets/Ellipse 62.svg"
+          src="src/assets/Ellipse 62.svg"
           alt="Circle"
           className="absolute top-6 left-5 lg:top-[272px] lg:left-[209px]"
         />
         <img
-          src="/src/assets/Polygon 4.svg"
+          src="src/assets/Polygon 4.svg"
           alt="Circle"
           className="absolute bottom-10 left-10  lg:top-[648px] lg:left-[69px]"
         />
         <img
-          src="/src/assets/Ellipse 66.svg"
+          src="src/assets/Ellipse 66.svg"
           alt="Circle"
           className="absolute bottom-24 right-20 lg:top-[573px] lg:left-[376px]"
         />
         <img
-          src="/src/assets/Ellipse 63.svg"
+          src="src/assets/Ellipse 63.svg"
           alt="Circle"
           className="absolute bottom-40 right-5  lg:bottom-2 lg:left-[297px] xl:top-[650px] 2xl:top-[775px] xl:left-[297px]"
         />
         <img
-          src="/src/assets/Polygon 5.svg"
+          src="src/assets/Polygon 5.svg"
           alt="Circle"
           className="absolute top-[881px] left-[1232px] xl:top-[600px] 2xl:top-[881px]"
         />
         <img
-          src="/src/assets/Ellipse 64.svg"
+          src="src/assets/Ellipse 64.svg"
           alt="Circle"
           className="lg:absolute lg:top-[572px] lg:left-[1598px] hidden lg:block"
         />
         <img
-          src="/src/assets/Ellipse 60.svg"
+          src="src/assets/Ellipse 60.svg"
           alt="Circle"
           className="lg:absolute lg:top-[594px] lg:left-[1710px] hidden lg:block"
         />
         <img
-          src="/src/assets/Polygon 3.svg"
+          src="src/assets/Polygon 3.svg"
           alt="Circle"
           className="lg:absolute lg:top-[176px] lg:left-[1391px] hidden lg:block"
         />

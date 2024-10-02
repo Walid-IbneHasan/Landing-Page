@@ -4,7 +4,7 @@ const Header = () => {
       <div className="w-5/6 mx-auto flex justify-between items-center">
         <div className="flex gap-2 items-center">
           <div className="flex gap-2 items-center pr-2 ">
-            <img src="/src/assets/logo.svg" alt="Digi Koein" />
+            <img src="src/assets/logo.svg" alt="Digi Koein" />
             <p className="text-white font-bold border-r border-r-[#545454] pr-[29px] py-[9px] pl-[6px] ">
               DIGI KOEIN
             </p>
