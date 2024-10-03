@@ -1,4 +1,5 @@
 import Header from "./Header";
+import MobileNavbar from "./MobileNavbar";
 import ScrollButton from "./ScrollButton";
 
 const HeroSection = () => {
@@ -6,6 +7,9 @@ const HeroSection = () => {
     <section className=" bg-gradient-to-r from-[#33112E] via-[#463727] to-[#110E32] text-white  h-screen relative">
       <div className="w-full hidden lg:block">
         <Header />
+      </div>
+      <div className="lg:hidden">
+        <MobileNavbar />
       </div>
       <div className="flex flex-col h-full gap-4 items-center justify-center">
         <p className="  text-[18px] text-[#7C7C7C] font-normal">
